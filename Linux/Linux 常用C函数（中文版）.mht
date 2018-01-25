@@ -1,0 +1,3317 @@
+From: <ÓÉ Windows Internet Explorer 8 ±£´æ>
+Subject: =?gb2312?B?TGludXggs6PTw0O6r8r9o6jW0M7EsOajqQ==?=
+Date: Thu, 15 Mar 2012 09:45:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0000_01CD0290.6C873980"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6157
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CD0290.6C873980
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0001_01CD0290.6C873980"
+
+
+------=_NextPart_001_0001_01CD0290.6C873980
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://man.chinaunix.net/develop/c&c++/linux_c/default.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN">
+<HTML><HEAD><TITLE>Linux =
+=B3=A3=D3=C3C=BA=AF=CA=FD=A3=A8=D6=D0=CE=C4=B0=E6=A3=A9</TITLE>
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML =
+8.00.6001.19170"></HEAD><FRAMESET=20
+frameSpacing=3D0 border=3D0 cols=3D172,* frameBorder=3DNO =
+rows=3D*><FRAME noResize=20
+src=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/left.htm" =
+name=3DleftFrame=20
+scrolling=3Dyes><FRAME=20
+src=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.htm=
+l"=20
+name=3DmainFrame></FRAMESET></HTML>
+
+------=_NextPart_001_0001_01CD0290.6C873980
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://man.chinaunix.net/develop/c&c++/linux_c/left.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>index</TITLE>
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19170"></HEAD>
+<BODY scroll=3Dyes bgColor=3D#ffffff text=3D#000000><A=20
+href=3D"http://man.chinaunix.net/">&lt;&lt; Back to man.ChinaUnix.net =
+</A><BR><BR>
+<DIV align=3Dleft><FONT face=3D"Arial, Helvetica, sans-serif"><B><FONT=20
+size=3D2></FONT></B></FONT>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"95%" =
+align=3Dcenter>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV align=3Dleft><FONT face=3D"Times New Roman, Times, serif"><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc1"=20
+      target=3DmainFrame><FONT =
+size=3D2>=D7=D6=B7=FB=B2=E2=CA=D4=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc1"=20
+      target=3DmainFrame>isalnum</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc2"=20
+      target=3DmainFrame>isalpha</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc3"=20
+      target=3DmainFrame>isascii</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc4"=20
+      target=3DmainFrame>iscntrl</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc5"=20
+      target=3DmainFrame>isdigit</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc6"=20
+      target=3DmainFrame>isgraphis</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc7"=20
+      target=3DmainFrame>islower</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc8"=20
+      target=3DmainFrame>isprint</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc9"=20
+      target=3DmainFrame>isspace</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc10"=20
+      target=3DmainFrame>ispunct</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc11"=20
+      target=3DmainFrame>isupper</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/01.ht=
+ml#linuxc12"=20
+      target=3DmainFrame>isxdigit</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc13"=20
+      target=3DmainFrame><FONT =
+size=3D2>=D7=D6=B7=FB=B4=AE=D7=AA=BB=BB=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc14"=20
+      target=3DmainFrame>atof</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc15"=20
+      target=3DmainFrame>atoi</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc16"=20
+      target=3DmainFrame>atol</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc17"=20
+      target=3DmainFrame>gcvt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc18"=20
+      target=3DmainFrame>strtod</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc19"=20
+      target=3DmainFrame>strtol</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc20"=20
+      target=3DmainFrame>strtoul</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc21"=20
+      target=3DmainFrame>toascii</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc22"=20
+      target=3DmainFrame>tolower</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/02.ht=
+ml#linuxc23"=20
+      target=3DmainFrame>toupper</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc24"=20
+      target=3DmainFrame><FONT =
+size=3D2>=C4=DA=B4=E6=BF=D8=D6=C6=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc25"=20
+      target=3DmainFrame>calloc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc26"=20
+      target=3DmainFrame>free</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc27"=20
+      target=3DmainFrame>getpagesize</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc28"=20
+      target=3DmainFrame>malloc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc29"=20
+      target=3DmainFrame>mmap</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/03.ht=
+ml#linuxc30"=20
+      target=3DmainFrame>munmap</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc31"=20
+      target=3DmainFrame><FONT =
+size=3D2>=C8=D5=C6=DA=CA=B1=BC=E4=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc32"=20
+      target=3DmainFrame>asctime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc33"=20
+      target=3DmainFrame>ctime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc34"=20
+      target=3DmainFrame>gettimeofday</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc35"=20
+      target=3DmainFrame>gmtime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc36"=20
+      target=3DmainFrame>localtime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc37"=20
+      target=3DmainFrame>mktime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc38"=20
+      target=3DmainFrame>settimeofday</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/04.ht=
+ml#linuxc39"=20
+      target=3DmainFrame>time</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc40"=20
+      target=3DmainFrame><FONT =
+size=3D2>=C4=DA=B4=E6=BC=B0=D7=D6=B7=FB=B4=AE=B2=D9=D7=F7=C6=AA</FONT></A=
+><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc41"=20
+      target=3DmainFrame>bcmp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc42"=20
+      target=3DmainFrame>bcopy</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc43"=20
+      target=3DmainFrame>bzero</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc44"=20
+      target=3DmainFrame>index</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc45"=20
+      target=3DmainFrame>memccpy</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc46"=20
+      target=3DmainFrame>memchr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc47"=20
+      target=3DmainFrame>memcmp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc48"=20
+      target=3DmainFrame>memcpy</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc49"=20
+      target=3DmainFrame>memmove</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc50"=20
+      target=3DmainFrame>memset</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc51"=20
+      target=3DmainFrame>rindex</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc52"=20
+      target=3DmainFrame>strcasecmp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc53"=20
+      target=3DmainFrame>strcat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc54"=20
+      target=3DmainFrame>strchr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc55"=20
+      target=3DmainFrame>strcmp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc56"=20
+      target=3DmainFrame>strcoll</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc57"=20
+      target=3DmainFrame>strcpy</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc58"=20
+      target=3DmainFrame>strcspn</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc59"=20
+      target=3DmainFrame>strdup</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc60"=20
+      target=3DmainFrame>strlen</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc61"=20
+      target=3DmainFrame>strncasecmp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc62"=20
+      target=3DmainFrame>strncat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc63"=20
+      target=3DmainFrame>strncpy</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc64"=20
+      target=3DmainFrame>strpbrk</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc65"=20
+      target=3DmainFrame>strrchr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc66"=20
+      target=3DmainFrame>strspn</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc67"=20
+      target=3DmainFrame>strstr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/05.ht=
+ml#linuxc68"=20
+      target=3DmainFrame>strtok</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc69"=20
+      target=3DmainFrame><FONT =
+size=3D2>=B3=A3=D3=C3=CA=FD=D1=A7=BA=AF=CA=FD=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc70"=20
+      target=3DmainFrame>abs</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc71"=20
+      target=3DmainFrame>acos</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc72"=20
+      target=3DmainFrame>asin</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc73"=20
+      target=3DmainFrame>atan</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc74"=20
+      target=3DmainFrame>atan2</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc75"=20
+      target=3DmainFrame>ceil</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc76"=20
+      target=3DmainFrame>cos</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc77"=20
+      target=3DmainFrame>cosh</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc78"=20
+      target=3DmainFrame>exp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc79"=20
+      target=3DmainFrame>frexp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc80"=20
+      target=3DmainFrame>ldexp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc81"=20
+      target=3DmainFrame>log</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc82"=20
+      target=3DmainFrame>log10</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc83"=20
+      target=3DmainFrame>pow</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc84"=20
+      target=3DmainFrame>sin</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc85"=20
+      target=3DmainFrame>sinh</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc86"=20
+      target=3DmainFrame>sqrt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc87"=20
+      target=3DmainFrame>tan</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/06.ht=
+ml#linuxc88"=20
+      target=3DmainFrame>tanh</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc89"=20
+      target=3DmainFrame><FONT =
+size=3D2>=D3=C3=BB=A7=D7=E9=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc90"=20
+      target=3DmainFrame>endgrent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc91"=20
+      target=3DmainFrame>endpwent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc92"=20
+      target=3DmainFrame>endutent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc93"=20
+      target=3DmainFrame>fgetgrent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc94"=20
+      target=3DmainFrame>fgetpwent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc95"=20
+      target=3DmainFrame>getegid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc96"=20
+      target=3DmainFrame>geteuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc97"=20
+      target=3DmainFrame>getgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc98"=20
+      target=3DmainFrame>getgrent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc99"=20
+      target=3DmainFrame>getgrgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc100"=20
+      target=3DmainFrame>getgrnam</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc101"=20
+      target=3DmainFrame>getgroups</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc102"=20
+      target=3DmainFrame>getpw</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc103"=20
+      target=3DmainFrame>getpwent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc104"=20
+      target=3DmainFrame>getpwnam</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc105"=20
+      target=3DmainFrame>getpwuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc106"=20
+      target=3DmainFrame>getuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc107"=20
+      target=3DmainFrame>getutent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc108"=20
+      target=3DmainFrame>getutid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc109"=20
+      target=3DmainFrame>getutline</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc110"=20
+      target=3DmainFrame>initgroups</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc111"=20
+      target=3DmainFrame>pututline</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc112"=20
+      target=3DmainFrame>seteuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc113"=20
+      target=3DmainFrame>setfsgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc114"=20
+      target=3DmainFrame>setfsuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc115"=20
+      target=3DmainFrame>setgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc116"=20
+      target=3DmainFrame>setgrent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc117"=20
+      target=3DmainFrame>setgroups</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc118"=20
+      target=3DmainFrame>setpwent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc119"=20
+      target=3DmainFrame>setregid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc120"=20
+      target=3DmainFrame>setreuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc121"=20
+      target=3DmainFrame>setuid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc122"=20
+      target=3DmainFrame>setutent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/07.ht=
+ml#linuxc123"=20
+      target=3DmainFrame>utmpname</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc124"=20
+      target=3DmainFrame><FONT =
+size=3D2>=CA=FD=BE=DD=BD=E1=B9=B9=BC=B0=CB=E3=B7=A8=C6=AA</FONT></A><BR><=
+A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc125"=20
+      target=3DmainFrame>crypt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc126"=20
+      target=3DmainFrame>bsearch</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc127"=20
+      target=3DmainFrame>lfind</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc128"=20
+      target=3DmainFrame>lsearch</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc129"=20
+      target=3DmainFrame>qsort</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc130"=20
+      target=3DmainFrame>rand</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/08.ht=
+ml#linuxc131"=20
+      target=3DmainFrame>srand</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc132"=20
+      target=3DmainFrame><FONT =
+size=3D2>=CE=C4=BC=FE=B2=D9=D7=F7=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc133"=20
+      target=3DmainFrame>close</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc134"=20
+      target=3DmainFrame>creat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc135"=20
+      target=3DmainFrame>dup</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc136"=20
+      target=3DmainFrame>dup2</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc137"=20
+      target=3DmainFrame>fcntl</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc138"=20
+      target=3DmainFrame>flock</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc139"=20
+      target=3DmainFrame>fsync</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc140"=20
+      target=3DmainFrame>lseek</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc141"=20
+      target=3DmainFrame>mkstemp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc142"=20
+      target=3DmainFrame>open</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc143"=20
+      target=3DmainFrame>read</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc144"=20
+      target=3DmainFrame>sync</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/09.ht=
+ml#linuxc145"=20
+      target=3DmainFrame>write</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc146"=20
+      target=3DmainFrame><FONT =
+size=3D2>=CE=C4=BC=FE=C4=DA=C8=DD=B2=D9=D7=F7=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc147"=20
+      target=3DmainFrame>clearerr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc148"=20
+      target=3DmainFrame>fclose</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc149"=20
+      target=3DmainFrame>fdopen</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc150"=20
+      target=3DmainFrame>feof</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc151"=20
+      target=3DmainFrame>fflush</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc152"=20
+      target=3DmainFrame>fgetc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc153"=20
+      target=3DmainFrame>fgets</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc154"=20
+      target=3DmainFrame>fileno</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc155"=20
+      target=3DmainFrame>fopen</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc156"=20
+      target=3DmainFrame>fputc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc157"=20
+      target=3DmainFrame>fputs</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc158"=20
+      target=3DmainFrame>fread</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc159"=20
+      target=3DmainFrame>freopen</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc160"=20
+      target=3DmainFrame>fseek</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc161"=20
+      target=3DmainFrame>ftell</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc162"=20
+      target=3DmainFrame>fwrite</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc163"=20
+      target=3DmainFrame>getc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc164"=20
+      target=3DmainFrame>getchar</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc165"=20
+      target=3DmainFrame>gets</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc166"=20
+      target=3DmainFrame>mktemp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc167"=20
+      target=3DmainFrame>putc</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc168"=20
+      target=3DmainFrame>putchar</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc169"=20
+      target=3DmainFrame>rewind</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc170"=20
+      target=3DmainFrame>setbuf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc171"=20
+      target=3DmainFrame>setbuffer</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc172"=20
+      target=3DmainFrame>setlinebuf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc173"=20
+      target=3DmainFrame>setvbuf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/10.ht=
+ml#linuxc174"=20
+      target=3DmainFrame>ungetc</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc175"=20
+      target=3DmainFrame><FONT =
+size=3D2>=BD=F8=B3=CC=B2=D9=D7=F7=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc176"=20
+      target=3DmainFrame>atexit</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc177"=20
+      target=3DmainFrame>execl</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc178"=20
+      target=3DmainFrame>execlp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc179"=20
+      target=3DmainFrame>execv</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc180"=20
+      target=3DmainFrame>execve</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc181"=20
+      target=3DmainFrame>execvp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc182"=20
+      target=3DmainFrame>exit</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc183"=20
+      target=3DmainFrame>_exit</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc184"=20
+      target=3DmainFrame>vfork</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc185"=20
+      target=3DmainFrame>getpgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc186"=20
+      target=3DmainFrame>getpgrp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc187"=20
+      target=3DmainFrame>getpid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc188"=20
+      target=3DmainFrame>getppid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc189"=20
+      target=3DmainFrame>getpriority</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc190"=20
+      target=3DmainFrame>nice</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc191"=20
+      target=3DmainFrame>on_exit</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc192"=20
+      target=3DmainFrame>setpgid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc193"=20
+      target=3DmainFrame>setpgrp</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc194"=20
+      target=3DmainFrame>setpriority</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc195"=20
+      target=3DmainFrame>system</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc196"=20
+      target=3DmainFrame>wait</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc197"=20
+      target=3DmainFrame>waitpid</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc198"=20
+      target=3DmainFrame>fprintf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc199"=20
+      target=3DmainFrame>fscanf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc200"=20
+      target=3DmainFrame>printf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc201"=20
+      target=3DmainFrame>sacnf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc202"=20
+      target=3DmainFrame>sprintf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc203"=20
+      target=3DmainFrame>sscanf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc204"=20
+      target=3DmainFrame>vfprintf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc205"=20
+      target=3DmainFrame>vfscanf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc206"=20
+      target=3DmainFrame>vprintf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc207"=20
+      target=3DmainFrame>vscanf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc208"=20
+      target=3DmainFrame>vsprintf</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/11.ht=
+ml#linuxc209"=20
+      target=3DmainFrame>vsscanf</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc210"=20
+      target=3DmainFrame><FONT =
+size=3D2>=CE=C4=BC=FE=C8=A8=CF=DE=BF=D8=D6=C6=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc211"=20
+      target=3DmainFrame>access</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc212"=20
+      target=3DmainFrame>alphasort</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc213"=20
+      target=3DmainFrame>chdir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc214"=20
+      target=3DmainFrame>chmod</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc215"=20
+      target=3DmainFrame>chown</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc216"=20
+      target=3DmainFrame>chroot</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc217"=20
+      target=3DmainFrame>closedir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc218"=20
+      target=3DmainFrame>fchdir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc219"=20
+      target=3DmainFrame>fchmod</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc220"=20
+      target=3DmainFrame>fchown</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc221"=20
+      target=3DmainFrame>fstat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc222"=20
+      target=3DmainFrame>ftruncate</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc223"=20
+      target=3DmainFrame>getcwd</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc224"=20
+      target=3DmainFrame>link</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc225"=20
+      target=3DmainFrame>lstat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc226"=20
+      target=3DmainFrame>opendir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc227"=20
+      target=3DmainFrame>readdir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc228"=20
+      target=3DmainFrame>readlink</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc229"=20
+      target=3DmainFrame>remove</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc230"=20
+      target=3DmainFrame>rename</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc231"=20
+      target=3DmainFrame>rewinddir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc232"=20
+      target=3DmainFrame>seekdir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc233"=20
+      target=3DmainFrame>stat</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc234"=20
+      target=3DmainFrame>symlink</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc235"=20
+      target=3DmainFrame>telldir</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc236"=20
+      target=3DmainFrame>truncate</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc237"=20
+      target=3DmainFrame>umask</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc238"=20
+      target=3DmainFrame>unlink</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc239"=20
+      target=3DmainFrame>utime</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/12.ht=
+ml#linuxc240"=20
+      target=3DmainFrame>utimes</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc241"=20
+      target=3DmainFrame><FONT =
+size=3D2>=D0=C5=BA=C5=B4=A6=C0=ED=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc242"=20
+      target=3DmainFrame>alarm</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc243"=20
+      target=3DmainFrame>kill</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc244"=20
+      target=3DmainFrame>pause</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc245"=20
+      target=3DmainFrame>sigaction</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc246"=20
+      target=3DmainFrame>sigaddset</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc247"=20
+      target=3DmainFrame>sigdelset</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc248"=20
+      target=3DmainFrame>sigemptyset</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc249"=20
+      target=3DmainFrame>sigfillset</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc250"=20
+      target=3DmainFrame>sigismember</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc251"=20
+      target=3DmainFrame>signal</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc252"=20
+      target=3DmainFrame>sigpending</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc253"=20
+      target=3DmainFrame>sigprocmask</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc254"=20
+      target=3DmainFrame>sleep</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc255"=20
+      target=3DmainFrame>ferror</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc256"=20
+      target=3DmainFrame>perror</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc257"=20
+      target=3DmainFrame>strerror</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc258"=20
+      target=3DmainFrame>mkfifo</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc259"=20
+      target=3DmainFrame>pclose</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc260"=20
+      target=3DmainFrame>pipe</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/13.ht=
+ml#linuxc261"=20
+      target=3DmainFrame>popen</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc262"=20
+      target=3DmainFrame><FONT =
+size=3D2>=BD=D3=BF=DA=B4=A6=C0=ED=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc263"=20
+      target=3DmainFrame>accept</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc264"=20
+      target=3DmainFrame>bind</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc265"=20
+      target=3DmainFrame>connect</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc266"=20
+      target=3DmainFrame>endprotoent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc267"=20
+      target=3DmainFrame>endservent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc268"=20
+      target=3DmainFrame>getsockopt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc269"=20
+      target=3DmainFrame>htonl</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc270"=20
+      target=3DmainFrame>htons</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc271"=20
+      target=3DmainFrame>inet_addr</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc272"=20
+      target=3DmainFrame>inet_aton</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc273"=20
+      target=3DmainFrame>inet_ntoa</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc274"=20
+      target=3DmainFrame>listen</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc275"=20
+      target=3DmainFrame>ntohl</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc276"=20
+      target=3DmainFrame>ntohs</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc277"=20
+      target=3DmainFrame>recv</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc278"=20
+      target=3DmainFrame>recvfrom</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc279"=20
+      target=3DmainFrame>recvmsg</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc280"=20
+      target=3DmainFrame>send</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc281"=20
+      target=3DmainFrame>sendmsg</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc282"=20
+      target=3DmainFrame>sendto</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc283"=20
+      target=3DmainFrame>setprotoent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc284"=20
+      target=3DmainFrame>setservent</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc285"=20
+      target=3DmainFrame>setsockopt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc286"=20
+      target=3DmainFrame>shutdown</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/14.ht=
+ml#linuxc287"=20
+      target=3DmainFrame>socket</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/15.ht=
+ml#linuxc288"=20
+      target=3DmainFrame><FONT =
+size=3D2>=BB=B7=BE=B3=B1=E4=C1=BF=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/15.ht=
+ml#linuxc289"=20
+      target=3DmainFrame>getenv</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/15.ht=
+ml#linuxc290"=20
+      target=3DmainFrame>putenv</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/15.ht=
+ml#linuxc291"=20
+      target=3DmainFrame>setenv</A><BR><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/16.ht=
+ml#linuxc292"=20
+      target=3DmainFrame><FONT =
+size=3D2>=D6=D5=B6=CB=BF=D8=D6=C6=C6=AA</FONT></A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/16.ht=
+ml#linuxc293"=20
+      target=3DmainFrame>getopt</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/16.ht=
+ml#linuxc294"=20
+      target=3DmainFrame>isatty</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/16.ht=
+ml#linuxc295"=20
+      target=3DmainFrame>select</A><BR><A=20
+      =
+href=3D"http://man.chinaunix.net/develop/c&amp;c++/linux_c/function/16.ht=
+ml#linuxc296"=20
+      =
+target=3DmainFrame>ttyname</A></FONT></DIV></TD></TR></TBODY></TABLE><FON=
+T=20
+face=3D"Arial, Helvetica, sans-serif"><B><FONT=20
+size=3D2><BR><BR></FONT></B></FONT></DIV></BODY></HTML>
+
+------=_NextPart_001_0001_01CD0290.6C873980--
+
+------=_NextPart_000_0000_01CD0290.6C873980
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://man.chinaunix.net/develop/c&c++/linux_c/function/14.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Untitled Document</TITLE>
+<META content=3D"text/html; charset=3Dgb2312" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19170"></HEAD>
+<BODY><A href=3D"http://man.chinaunix.net/">&lt;&lt; Back to =
+man.ChinaUnix.net=20
+</A><BR><BR>
+<TABLE width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc263></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>accept=A3=A8=BD=D3=CA=DCsocket=C1=AC=CF=DF=A3=A9 =
+</FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>socket=A3=ACbind=A3=AClisten=A3=ACconnect<BR></FONT><=
+/TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int accept(int =
+s,struct sockaddr *=20
+      addr,int * addrlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>accept()=D3=C3=C0=B4=BD=D3=CA=DC=B2=CE=CA=FDs=B5=C4so=
+cket=C1=AC=CF=DF=A1=A3=B2=CE=CA=FDs=B5=C4socket=B1=D8=D0=E8=CF=C8=BE=ADbi=
+nd()=A1=A2listen()=BA=AF=CA=FD=B4=A6=C0=ED=B9=FD=A3=AC=B5=B1=D3=D0=C1=AC=CF=
+=DF=BD=F8=C0=B4=CA=B1accept()=BB=E1=B7=B5=BB=D8=D2=BB=B8=F6=D0=C2=B5=C4so=
+cket=B4=A6=C0=ED=B4=FA=C2=EB=A3=AC=CD=F9=BA=F3=B5=C4=CA=FD=BE=DD=B4=AB=CB=
+=CD=D3=EB=B6=C1=C8=A1=BE=CD=CA=C7=BE=AD=D3=C9=D0=C2=B5=C4socket=B4=A6=C0=ED=
+=A3=AC=B6=F8=D4=AD=C0=B4=B2=CE=CA=FDs=B5=C4socket=C4=DC=BC=CC=D0=F8=CA=B9=
+=D3=C3accept()=C0=B4=BD=D3=CA=DC=D0=C2=B5=C4=C1=AC=CF=DF=D2=AA=C7=F3=A1=A3=
+=C1=AC=CF=DF=B3=C9=B9=A6=CA=B1=A3=AC=B2=CE=CA=FDaddr=CB=F9=D6=B8=B5=C4=BD=
+=E1=B9=B9=BB=E1=B1=BB=CF=B5=CD=B3=CC=EE=C8=EB=D4=B6=B3=CC=D6=F7=BB=FA=B5=C4=
+=B5=D8=D6=B7=CA=FD=BE=DD=A3=AC=B2=CE=CA=FDaddrlen=CE=AAscokaddr=B5=C4=BD=E1=
+=B9=B9=B3=A4=B6=C8=A1=A3=B9=D8=D3=DA=BD=E1=B9=B9sockaddr=B5=C4=B6=A8=D2=E5=
+=C7=EB=B2=CE=BF=BCbind()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=D0=C2=B5=C4socket=B4=A6=
+=C0=ED=B4=FA=C2=EB=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=
+=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs =
+=B7=C7=BA=CF=B7=A8socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3<BR>EFAULT=20
+      =
+=B2=CE=CA=FDaddr=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=A1=B5=C4=C4=
+=DA=B4=E6=BF=D5=BC=E4=A1=A3<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EOPNOTSUPP=20
+      =D6=B8=B6=A8=B5=C4socket=B2=A2=B7=C7SOCK_STREAM=A1=A3<BR>EPERM =
+=B7=C0=BB=F0=C7=BD=BE=DC=BE=F8=B4=CB=C1=AC=CF=DF=A1=A3<BR>ENOBUFS =
+=CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3=A1=A3<BR>ENOMEM=20
+      =BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BClisten()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc264></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>bind=A3=A8=B6=D4socket=B6=A8=CE=BB=A3=A9 =
+</FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>socket=A3=ACaccept=A3=ACconnect=A3=AClisten<BR></FONT=
+></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int bind(int =
+sockfd,struct sockaddr *=20
+      my_addr,int addrlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>bind()=D3=C3=C0=B4=C9=E8=D6=C3=B8=F8=B2=CE=CA=FDsockf=
+d=B5=C4socket=D2=BB=B8=F6=C3=FB=B3=C6=A1=A3=B4=CB=C3=FB=B3=C6=D3=C9=B2=CE=
+=CA=FDmy_addr=D6=B8=CF=F2=D2=BBsockaddr=BD=E1=B9=B9=A3=AC=B6=D4=D3=DA=B2=BB=
+=CD=AC=B5=C4socket=20
+      =
+domain=B6=A8=D2=E5=C1=CB=D2=BB=B8=F6=CD=A8=D3=C3=B5=C4=CA=FD=BE=DD=BD=E1=B9=
+=B9<BR>struct sockaddr<BR>{<BR>unsigned short int=20
+      sa_family;<BR>char sa_data[14];<BR>};<BR>sa_family=20
+      =
+=CE=AA=B5=F7=D3=C3socket=A3=A8=A3=A9=CA=B1=B5=C4domain=B2=CE=CA=FD=A3=AC=BC=
+=B4AF_xxxx=D6=B5=A1=A3<BR>sa_data=20
+      =
+=D7=EE=B6=E0=CA=B9=D3=C314=B8=F6=D7=D6=B7=FB=B3=A4=B6=C8=A1=A3<BR>=B4=CBs=
+ockaddr=BD=E1=B9=B9=BB=E1=D2=F2=CA=B9=D3=C3=B2=BB=CD=AC=B5=C4socket =
+domain=B6=F8=D3=D0=B2=BB=CD=AC=BD=E1=B9=B9=B6=A8=D2=E5=A3=AC=C0=FD=C8=E7=CA=
+=B9=D3=C3AF_INET=20
+      =
+domain=A3=AC=C6=E4socketaddr=BD=E1=B9=B9=B6=A8=D2=E5=B1=E3=CE=AA<BR>struc=
+t socketaddr_in<BR>{<BR>unsigned short=20
+      int sin_family;<BR>uint16_t sin_port;<BR>struct in_addr=20
+      sin_addr;<BR>unsigned char sin_zero[8];<BR>};<BR>struct=20
+      in_addr<BR>{<BR>uint32_t s_addr;<BR>};<BR>sin_family=20
+      =BC=B4=CE=AAsa_family<BR>sin_port =
+=CE=AA=CA=B9=D3=C3=B5=C4port=B1=E0=BA=C5<BR>sin_addr.s_addr =CE=AAIP =
+=B5=D8=D6=B7<BR>sin_zero=20
+      =CE=B4=CA=B9=D3=C3=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B2=CE=CA=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+face=3D=CB=CE=CC=E5>addrlen=CE=AAsockaddr=B5=C4=BD=E1=B9=B9=B3=A4=B6=C8=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=CA=A7=B0=DC=B7=B5=
+=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></=
+FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDsockfd=20
+      =B7=C7=BA=CF=B7=A8socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3<BR>EACCESS =
+=C8=A8=CF=DE=B2=BB=D7=E3<BR>ENOTSOCK=20
+      =
+=B2=CE=CA=FDsockfd=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7s=
+ocket=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BClisten()<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc265></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>connect=A3=A8=BD=A8=C1=A2socket=C1=AC=CF=DF=A3=A9=
+ </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>socket=A3=ACbind=A3=AClisten<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int connect (int =
+sockfd,struct=20
+      sockaddr * serv_addr,int addrlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>connect()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FDsockfd =
+=B5=C4socket=20
+      =C1=AC=D6=C1=B2=CE=CA=FDserv_addr=20
+      =
+=D6=B8=B6=A8=B5=C4=CD=F8=C2=E7=B5=D8=D6=B7=A1=A3=BD=E1=B9=B9sockaddr=C7=EB=
+=B2=CE=BF=BCbind()=A1=A3=B2=CE=CA=FDaddrlen=CE=AAsockaddr=B5=C4=BD=E1=B9=B9=
+=B3=A4=B6=C8=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=CA=A7=B0=DC=B7=B5=
+=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></=
+FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDsockfd =
+=B7=C7=BA=CF=B7=A8socket=B4=A6=C0=ED=B4=FA=C2=EB<BR>EFAULT=20
+      =
+=B2=CE=CA=FDserv_addr=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=A1=B5=C4=
+=C4=DA=B4=E6=BF=D5=BC=E4<BR>ENOTSOCK =
+=B2=CE=CA=FDsockfd=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7s=
+ocket=A1=A3<BR>EISCONN=20
+      =
+=B2=CE=CA=FDsockfd=B5=C4socket=D2=D1=CA=C7=C1=AC=CF=DF=D7=B4=CC=AC<BR>ECO=
+NNREFUSED =
+=C1=AC=CF=DF=D2=AA=C7=F3=B1=BBserver=B6=CB=BE=DC=BE=F8=A1=A3<BR>ETIMEDOUT=
+=20
+      =
+=C6=F3=CD=BC=C1=AC=CF=DF=B5=C4=B2=D9=D7=F7=B3=AC=B9=FD=CF=DE=B6=A8=CA=B1=BC=
+=E4=C8=D4=CE=B4=D3=D0=CF=EC=D3=A6=A1=A3<BR>ENETUNREACH =
+=CE=DE=B7=A8=B4=AB=CB=CD=CA=FD=BE=DD=B0=FC=D6=C1=D6=B8=B6=A8=B5=C4=D6=F7=BB=
+=FA=A1=A3<BR>EAFNOSUPPORT=20
+      =
+sockaddr=BD=E1=B9=B9=B5=C4sa_family=B2=BB=D5=FD=C8=B7=A1=A3<BR>EALREADY=20
+  =
+socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=C7=D2=CF=C8=C7=B0=B5=C4=C1=AC=CF=DF=B2=
+=D9=D7=F7=BB=B9=CE=B4=CD=EA=B3=C9=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>/* =
+=C0=FB=D3=C3socket=B5=C4TCP =
+client<BR>=B4=CB=B3=CC=D0=F2=BB=E1=C1=AC=CF=DFTCP=20
+      =
+server=A3=AC=B2=A2=BD=AB=BC=FC=C5=CC=CA=E4=C8=EB=B5=C4=D7=D6=B7=FB=B4=AE=B4=
+=AB=CB=CD=B8=F8server=A1=A3<BR>TCP=20
+      =
+server=B7=B6=C0=FD=C7=EB=B2=CE=BF=BClisten=A3=A8=A3=A9=A1=A3<BR>*/<BR>#in=
+clude&lt;sys/stat.h&gt;<BR>#include&lt;fcntl.h&gt;<BR>#include&lt;unistd.=
+h&gt;<BR>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket.h&gt;<BR>#=
+include&lt;netinet/in.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR>#define=20
+      PORT 1234<BR>#define SERVER_IP =
+=A1=B0127.0.0.1=A1=B1<BR>main()<BR>{<BR>int=20
+      s;<BR>struct sockaddr_in addr;<BR>char buffer[256];<BR>if((s =3D=20
+      =
+socket(AF_INET,SOCK_STREAM,0))&lt;0){<BR>perror(=A1=B0socket=A1=B1);<BR>e=
+xit(1);<BR>}<BR>/*=20
+      =
+=CC=EE=D0=B4sockaddr_in=BD=E1=B9=B9*/<BR>bzero(&amp;addr,sizeof(addr));<B=
+R>addr.sin_family =3D=20
+      AF_INET;<BR>addr.sin_port=3Dhtons(PORT);<BR>addr.sin_addr.s_addr =
+=3D=20
+      inet_addr(SERVER_IP);<BR>/*=20
+      =
+=B3=A2=CA=D4=C1=AC=CF=DF*/<BR>if(connect(s,&amp;addr,sizeof(addr))&lt;0){=
+<BR>perror(=A1=B0connect=A1=B1);<BR>exit(1);<BR>}<BR>/*=20
+      =
+=BD=D3=CA=D5=D3=C9server=B6=CB=B4=AB=C0=B4=B5=C4=D0=C5=CF=A2*/<BR>recv(s,=
+buffer,sizeof(buffer),0);<BR>printf(=A1=B0%s\n=A1=B1,buffer);<BR>while(1)=
+{<BR>bzero(buffer,sizeof(buffer));<BR>/*=20
+      =
+=B4=D3=B1=EA=D7=BC=CA=E4=C8=EB=C9=E8=B1=B8=C8=A1=B5=C3=D7=D6=B7=FB=B4=AE*=
+/<BR>read(STDIN_FILENO,buffer,sizeof(buffer));<BR>/*=20
+      =
+=BD=AB=D7=D6=B7=FB=B4=AE=B4=AB=B8=F8server=B6=CB*/<BR>if(send(s,buffer,si=
+zeof(buffer),0)&lt;0){<BR>perror(=A1=B0send=A1=B1);<BR>exit(1);<BR>}<BR>}=
+<BR>}<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=D6=B4=D0=D0 =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>$ =
+./connect<BR>Welcome to=20
+      server!<BR>hi I am client!=20
+  =
+/*=BC=FC=C5=CC=CA=E4=C8=EB*/<BR>/*&lt;Ctrl+C&gt;=D6=D0=B6=CF=B3=CC=D0=F2*=
+/<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc266></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>endprotoent=A3=A8=BD=E1=CA=F8=CD=F8=C2=E7=D0=AD=D2=
+=E9=CA=FD=BE=DD=B5=C4=B6=C1=C8=A1=A3=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>getprotoent=A3=ACgetprotobyname=A3=ACgetprotobynumber=
+=A3=ACsetprotoent<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+  face=3D=CB=CE=CC=E5>#include&lt;netdb.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>void=20
+  endprotoent(void);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>endprotoent()=D3=C3=C0=B4=B9=D8=B1=D5=D3=C9getprotoen=
+t()=B4=F2=BF=AA=B5=C4=CE=C4=BC=FE=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetprotoent()<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc267></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>endservent=A3=A8=BD=E1=CA=F8=CD=F8=C2=E7=B7=FE=CE=
+=F1=CA=FD=BE=DD=B5=C4=B6=C1=C8=A1=A3=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>getservent=A3=ACgetservbyname=A3=ACgetservbyport=A3=AC=
+setservent<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+  face=3D=CB=CE=CC=E5>#include&lt;netdb.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>void=20
+endservent(void);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>endservent()=D3=C3=C0=B4=B9=D8=B1=D5=D3=C9getservent(=
+)=CB=F9=B4=F2=BF=AA=B5=C4=CE=C4=BC=FE=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetservent()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc268></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>getsockopt=A3=A8=C8=A1=B5=C3socket=D7=B4=CC=AC=A3=
+=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>setsockopt<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int =
+getsockopt(int s,int level,int=20
+      optname,void* optval,socklen_t* optlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>getsockopt()=BB=E1=BD=AB=B2=CE=CA=FDs=CB=F9=D6=B8=B6=A8=
+=B5=C4socket=D7=B4=CC=AC=B7=B5=BB=D8=A1=A3=B2=CE=CA=FDoptname=B4=FA=B1=ED=
+=D3=FB=C8=A1=B5=C3=BA=CE=D6=D6=D1=A1=CF=EE=D7=B4=CC=AC=A3=AC=B6=F8=B2=CE=CA=
+=FDoptval=D4=F2=D6=B8=CF=F2=D3=FB=B1=A3=B4=E6=BD=E1=B9=FB=B5=C4=C4=DA=B4=E6=
+=B5=D8=D6=B7=A3=AC=B2=CE=CA=FDoptlen=D4=F2=CE=AA=B8=C3=BF=D5=BC=E4=B5=C4=B4=
+=F3=D0=A1=A1=A3=B2=CE=CA=FDlevel=A1=A2optname=C7=EB=B2=CE=BF=BCsetsockopt=
+()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=C8=F4=D3=D0=B4=ED=
+=CE=F3=D4=F2=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=
+<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs =
+=B2=A2=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB<BR>ENOTSOCK =
+
+      =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+<BR>ENOPROTOOPT =
+=B2=CE=CA=FDoptname=D6=B8=B6=A8=B5=C4=D1=A1=CF=EE=B2=BB=D5=FD=C8=B7<BR>EF=
+AULT=20
+      =
+=B2=CE=CA=FDoptval=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=A1=B5=C4=C4=
+=DA=B4=E6=BF=D5=BC=E4<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR>main()<BR>{<BR>int=20
+      s,optval,optlen =3D sizeof(int);<BR>if((s =3D=20
+      socket(AF_INET,SOCK_STREAM,0))&lt;0)=20
+      =
+perror(=A1=B0socket=A1=B1);<BR>getsockopt(s,SOL_SOCKET,SO_TYPE,&amp;optva=
+l,&amp;optlen);<BR>printf(=A1=B0optval=20
+      =3D %d\n=A1=B1,optval);<BR>close(s);}<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=D6=B4=D0=D0 =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>optval =3D 1=20
+      =
+/*SOCK_STREAM=B5=C4=B6=A8=D2=E5=D5=FD=CA=C7=B4=CB=D6=B5*/<BR></FONT></TD>=
+</TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc269></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>htonl=A3=A8=BD=AB32=CE=BB=D6=F7=BB=FA=D7=D6=B7=FB=
+=CB=B3=D0=F2=D7=AA=BB=BB=B3=C9=CD=F8=C2=E7=D7=D6=B7=FB=CB=B3=D0=F2=A3=A9 =
+
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>htons=A3=ACntohl=A3=ACntohs<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;netinet/in.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>unsigned long =
+int htonl(unsigned long=20
+      int hostlong);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>htonl=A3=A8=A3=A9=D3=C3=C0=B4=BD=AB=B2=CE=CA=FD=D6=B8=
+=B6=A8=B5=C432=CE=BBhostlong=20
+      =
+=D7=AA=BB=BB=B3=C9=CD=F8=C2=E7=D7=D6=B7=FB=CB=B3=D0=F2=A1=A3<BR></FONT></=
+TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=B6=D4=D3=A6=B5=C4=CD=F8=C2=E7=D7=D6=B7=FB=
+=CB=B3=D0=F2=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetservbyport()=BB=F2connect()=A1=A3<BR><=
+/FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc270></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>htons=A3=A8=BD=AB16=CE=BB=D6=F7=BB=FA=D7=D6=B7=FB=
+=CB=B3=D0=F2=D7=AA=BB=BB=B3=C9=CD=F8=C2=E7=D7=D6=B7=FB=CB=B3=D0=F2=A3=A9 =
+
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>htonl=A3=ACntohl=A3=ACntohs<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;netinet/in.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>unsigned short =
+int htons(unsigned=20
+      short int hostshort);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>htons()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FD=D6=B8=B6=A8=B5=C4=
+16=CE=BBhostshort=D7=AA=BB=BB=B3=C9=CD=F8=C2=E7=D7=D6=B7=FB=CB=B3=D0=F2=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=B6=D4=D3=A6=B5=C4=CD=F8=C2=E7=D7=D6=B7=FB=
+=CB=B3=D0=F2=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCconnect()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc271></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>inet_addr=A3=A8=BD=AB=CD=F8=C2=E7=B5=D8=D6=B7=D7=AA=
+=B3=C9=B6=FE=BD=F8=D6=C6=B5=C4=CA=FD=D7=D6=A3=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>inet_aton=A3=ACinet_ntoa<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/socket.h&gt;<BR>#include&lt;netinet/i=
+n.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>unsigned long =
+int inet_addr(const char=20
+      *cp);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>inet_addr()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FDcp=CB=F9=D6=B8=
+=B5=C4=CD=F8=C2=E7=B5=D8=D6=B7=D7=D6=B7=FB=B4=AE=D7=AA=BB=BB=B3=C9=CD=F8=C2=
+=E7=CB=F9=CA=B9=D3=C3=B5=C4=B6=FE=BD=F8=D6=C6=CA=FD=D7=D6=A1=A3=CD=F8=C2=E7=
+=B5=D8=D6=B7=D7=D6=B7=FB=B4=AE=CA=C7=D2=D4=CA=FD=D7=D6=BA=CD=B5=E3=D7=E9=B3=
+=C9=B5=C4=D7=D6=B7=FB=B4=AE=A3=AC=C0=FD=C8=E7:=A1=B0163.13.132.68=A1=B1=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+  =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=B6=D4=D3=A6=B5=C4=CD=F8=
+=C2=E7=B6=FE=BD=F8=D6=C6=B5=C4=CA=FD=D7=D6=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-=
+1=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc272></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>inet_aton=A3=A8=BD=AB=CD=F8=C2=E7=B5=D8=D6=B7=D7=AA=
+=B3=C9=CD=F8=C2=E7=B6=FE=BD=F8=D6=C6=B5=C4=CA=FD=D7=D6=A3=A9=20
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>inet_addr=A3=ACinet_ntoa<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/scoket.h&gt;<BR>#include&lt;netinet/i=
+n.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int =
+inet_aton(const char * cp,struct=20
+      in_addr *inp);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>inet_aton()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FDcp=CB=F9=D6=B8=
+=B5=C4=CD=F8=C2=E7=B5=D8=D6=B7=D7=D6=B7=FB=B4=AE=D7=AA=BB=BB=B3=C9=CD=F8=C2=
+=E7=CA=B9=D3=C3=B5=C4=B6=FE=BD=F8=D6=C6=B5=C4=CA=FD=D7=D6=A3=AC=C8=BB=BA=F3=
+=B4=E6=D3=DA=B2=CE=CA=FDinp=CB=F9=D6=B8=B5=C4in_addr=BD=E1=B9=B9=D6=D0=A1=
+=A3<BR>=BD=E1=B9=B9in_addr=B6=A8=D2=E5=C8=E7=CF=C2<BR>struct=20
+      in_addr<BR>{<BR>unsigned long int =
+s_addr;<BR>};<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=B7=C70=D6=B5=A3=AC=CA=A7=
+=B0=DC=D4=F2=B7=B5=BB=D80=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc273></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>inet_ntoa=A3=A8=BD=AB=CD=F8=C2=E7=B6=FE=BD=F8=D6=C6=
+=B5=C4=CA=FD=D7=D6=D7=AA=BB=BB=B3=C9=CD=F8=C2=E7=B5=D8=D6=B7=A3=A9=20
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>inet_addr=A3=ACinet_aton<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/socket.h&gt;<BR>#include&lt;netinet/i=
+n.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>char * =
+inet_ntoa(struct in_addr=20
+      in);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>inet_ntoa()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FDin=CB=F9=D6=B8=
+=B5=C4=CD=F8=C2=E7=B6=FE=BD=F8=D6=C6=B5=C4=CA=FD=D7=D6=D7=AA=BB=BB=B3=C9=CD=
+=F8=C2=E7=B5=D8=D6=B7=A3=AC=C8=BB=BA=F3=BD=AB=D6=B8=CF=F2=B4=CB=CD=F8=C2=E7=
+=B5=D8=D6=B7=D7=D6=B7=FB=B4=AE=B5=C4=D6=B8=D5=EB=B7=B5=BB=D8=A1=A3<BR></F=
+ONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=D7=D6=B7=FB=B4=AE=D6=B8=
+=D5=EB=A3=AC=CA=A7=B0=DC=D4=F2=B7=B5=BB=D8NULL=A1=A3<BR></FONT></TD></TR>=
+
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc274></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>listen=A3=A8=B5=C8=B4=FD=C1=AC=BD=D3=A3=A9 =
+</FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>socket=A3=ACbind=A3=ACaccept=A3=ACconnect<BR></FONT><=
+/TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;sys/socket.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int listen(int =
+s,int=20
+      backlog);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>listen()=D3=C3=C0=B4=B5=C8=B4=FD=B2=CE=CA=FDs=20
+      =
+=B5=C4socket=C1=AC=CF=DF=A1=A3=B2=CE=CA=FDbacklog=D6=B8=B6=A8=CD=AC=CA=B1=
+=C4=DC=B4=A6=C0=ED=B5=C4=D7=EE=B4=F3=C1=AC=BD=D3=D2=AA=C7=F3=A3=AC=C8=E7=B9=
+=FB=C1=AC=BD=D3=CA=FD=C4=BF=B4=EF=B4=CB=C9=CF=CF=DE=D4=F2client=B6=CB=BD=AB=
+=CA=D5=B5=BDECONNREFUSED=B5=C4=B4=ED=CE=F3=A1=A3Listen()=B2=A2=CE=B4=BF=AA=
+=CA=BC=BD=D3=CA=D5=C1=AC=CF=DF=A3=AC=D6=BB=CA=C7=C9=E8=D6=C3socket=CE=AAl=
+isten=C4=A3=CA=BD=A3=AC=D5=E6=D5=FD=BD=D3=CA=D5client=B6=CB=C1=AC=CF=DF=B5=
+=C4=CA=C7accept()=A1=A3=CD=A8=B3=A3listen()=BB=E1=D4=DAsocket()=A3=ACbind=
+()=D6=AE=BA=F3=B5=F7=D3=C3=A3=AC=BD=D3=D7=C5=B2=C5=B5=F7=D3=C3accept()=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+  =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=CA=A7=B0=DC=B7=B5=
+=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno<BR></FONT></TD></=
+TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B8=BD=BC=D3=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>listen()=D6=BB=CA=CA=D3=C3SOCK_STREAM=BB=F2SOCK_SEQPA=
+CKET=B5=C4socket=C0=E0=D0=CD=A1=A3=C8=E7=B9=FBsocket=CE=AAAF_INET=D4=F2=B2=
+=CE=CA=FDbacklog=20
+      =D7=EE=B4=F3=D6=B5=BF=C9=C9=E8=D6=C1128=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDsockfd=B7=C7=BA=CF=B7=A8socket=B4=A6=C0=ED=B4=FA=C2=EB<BR>EAC=
+CESS=20
+      =C8=A8=CF=DE=B2=BB=D7=E3<BR>EOPNOTSUPP =
+=D6=B8=B6=A8=B5=C4socket=B2=A2=CE=B4=D6=A7=D4=AElisten=C4=A3=CA=BD=A1=A3<=
+BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR>#include&lt;netinet/in.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR>=
+#include&lt;unistd.h&gt;<BR>#define=20
+      PORT 1234<BR>#define MAXSOCKFD 10<BR>main()<BR>{<BR>int=20
+      sockfd,newsockfd,is_connected[MAXSOCKFD],fd;<BR>struct sockaddr_in =
+
+      addr;<BR>int addr_len =3D sizeof(struct sockaddr_in);<BR>fd_set=20
+      readfds;<BR>char buffer[256];<BR>char msg[ ] =3D=A1=B1Welcome to =
+server!=A1=B1;<BR>if=20
+      ((sockfd =3D=20
+      =
+socket(AF_INET,SOCK_STREAM,0))&lt;0){<BR>perror(=A1=B0socket=A1=B1);<BR>e=
+xit(1);<BR>}<BR>bzero(&amp;addr,sizeof(addr));<BR>addr.sin_family=20
+      =3DAF_INET;<BR>addr.sin_port =3D =
+htons(PORT);<BR>addr.sin_addr.s_addr =3D=20
+      =
+htonl(INADDR_ANY);<BR>if(bind(sockfd,&amp;addr,sizeof(addr))&lt;0){<BR>pe=
+rror(=A1=B0connect=A1=B1);<BR>exit(1);<BR>}<BR>if(listen(sockfd,3)&lt;0){=
+<BR>perror(=A1=B0listen=A1=B1);<BR>exit(1);<BR>}<BR>for(fd=3D0;fd&lt;MAXS=
+OCKFD;fd++)<BR>is_connected[fd]=3D0;<BR>while(1){<BR>FD_ZERO(&amp;readfds=
+);<BR>FD_SET(sockfd,&amp;readfds);<BR>for(fd=3D0;fd&lt;MAXSOCKFD;fd++)<BR=
+>if(is_connected[fd])=20
+      =
+FD_SET(fd,&amp;readfds);<BR>if(!select(MAXSOCKFD,&amp;readfds,NULL,NULL,N=
+ULL))continue;<BR>for(fd=3D0;fd&lt;MAXSOCKFD;fd++)<BR>if(FD_ISSET(fd,&amp=
+;readfds)){<BR>if(sockfd=20
+      =3D =3Dfd){<BR>if((newsockfd =3D accept=20
+      =
+(sockfd,&amp;addr,&amp;addr_len))&lt;0)<BR>perror(=A1=B0accept=A1=B1);<BR=
+>write(newsockfd,msg,sizeof(msg));<BR>is_connected[newsockfd]=20
+      =3D1;<BR>printf(=A1=B0cnnect from=20
+      =
+%s\n=A1=B1,inet_ntoa(addr.sin_addr));<BR>}else{<BR>bzero(buffer,sizeof(bu=
+ffer));<BR>if(read(fd,buffer,sizeof(buffer))&lt;=3D0){<BR>printf(=A1=B0co=
+nnect=20
+      =
+closed.\n=A1=B1);<BR>is_connected[fd]=3D0;<BR>close(fd);<BR>}else<BR>prin=
+tf(=A1=B0%s=A1=B1,buffer);<BR>}<BR>}<BR>}<BR>}<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=D6=B4=D0=D0 =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>$ =
+./listen<BR>connect from=20
+      127.0.0.1<BR>hi I am client<BR>connected =
+closed.<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc275></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>ntohl=A3=A8=BD=AB32=CE=BB=CD=F8=C2=E7=D7=D6=B7=FB=
+=CB=B3=D0=F2=D7=AA=BB=BB=B3=C9=D6=F7=BB=FA=D7=D6=B7=FB=CB=B3=D0=F2=A3=A9 =
+
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>htonl=A3=AChtons=A3=ACntohs<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;netinet/in.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>unsigned long =
+int ntohl(unsigned long=20
+      int netlong);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>ntohl()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FD=D6=B8=B6=A8=B5=C4=
+32=CE=BBnetlong=D7=AA=BB=BB=B3=C9=D6=F7=BB=FA=D7=D6=B7=FB=CB=B3=D0=F2=A1=A3=
+<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=B6=D4=D3=A6=B5=C4=D6=F7=BB=FA=D7=D6=B7=FB=
+=CB=B3=D0=F2=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetservent()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc276></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>ntohs=A3=A8=BD=AB16=CE=BB=CD=F8=C2=E7=D7=D6=B7=FB=
+=CB=B3=D0=F2=D7=AA=BB=BB=B3=C9=D6=F7=BB=FA=D7=D6=B7=FB=CB=B3=D0=F2=A3=A9 =
+
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>htonl=A3=AChtons=A3=ACntohl<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;netinet/in.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>unsigned short =
+int ntohs(unsigned=20
+      short int netshort);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>ntohs()=D3=C3=C0=B4=BD=AB=B2=CE=CA=FD=D6=B8=B6=A8=B5=C4=
+16=CE=BBnetshort=D7=AA=BB=BB=B3=C9=D6=F7=BB=FA=D7=D6=B7=FB=CB=B3=D0=F2=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=B6=D4=D3=A6=B5=C4=D6=F7=BB=FA=CB=B3=D0=F2=
+=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetservent()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc277></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>recv=A3=A8=BE=ADsocket=BD=D3=CA=D5=CA=FD=BE=DD=A3=
+=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>recvfrom=A3=ACrecvmsg=A3=ACsend=A3=ACsendto=A3=ACsock=
+et<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int recv(int =
+s,void *buf,int=20
+      len,unsigned int flags);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>recv()=D3=C3=C0=B4=BD=D3=CA=D5=D4=B6=B6=CB=D6=F7=BB=FA=
+=BE=AD=D6=B8=B6=A8=B5=C4socket=B4=AB=C0=B4=B5=C4=CA=FD=BE=DD=A3=AC=B2=A2=B0=
+=D1=CA=FD=BE=DD=B4=E6=B5=BD=D3=C9=B2=CE=CA=FDbuf=20
+      =
+=D6=B8=CF=F2=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4=A3=AC=B2=CE=CA=FDlen=CE=AA=BF=C9=
+=BD=D3=CA=D5=CA=FD=BE=DD=B5=C4=D7=EE=B4=F3=B3=A4=B6=C8=A1=A3<BR></FONT></=
+TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B2=CE=CA=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>flags=D2=BB=B0=E3=C9=E80=A1=A3=C6=E4=CB=FB=CA=FD=D6=B5=
+=B6=A8=D2=E5=C8=E7=CF=C2:<BR>MSG_OOB=20
+      =BD=D3=CA=D5=D2=D4out-of-band =
+=CB=CD=B3=F6=B5=C4=CA=FD=BE=DD=A1=A3<BR>MSG_PEEK=20
+      =
+=B7=B5=BB=D8=C0=B4=B5=C4=CA=FD=BE=DD=B2=A2=B2=BB=BB=E1=D4=DA=CF=B5=CD=B3=C4=
+=DA=C9=BE=B3=FD=A3=AC=C8=E7=B9=FB=D4=D9=B5=F7=D3=C3recv()=BB=E1=B7=B5=BB=D8=
+=CF=E0=CD=AC=B5=C4=CA=FD=BE=DD=C4=DA=C8=DD=A1=A3<BR>MSG_WAITALL=C7=BF=C6=C8=
+=BD=D3=CA=D5=B5=BDlen=B4=F3=D0=A1=B5=C4=CA=FD=BE=DD=BA=F3=B2=C5=C4=DC=B7=B5=
+=BB=D8=A3=AC=B3=FD=B7=C7=D3=D0=B4=ED=CE=F3=BB=F2=D0=C5=BA=C5=B2=FA=C9=FA=A1=
+=A3<BR>MSG_NOSIGNAL=B4=CB=B2=D9=D7=F7=B2=BB=D4=B8=B1=BBSIGPIPE=D0=C5=BA=C5=
+=D6=D0=B6=CF=B7=B5=BB=D8=D6=B5=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=BD=D3=CA=D5=B5=
+=BD=B5=C4=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=
+=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB<BR>EF=
+AULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EINTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF<BR>EAGAIN =
+=B4=CB=B6=AF=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF<BR>ENOBUFS=20
+      =
+=CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3=A1=A3<BR>ENOMEM =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BClisten()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc278></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>recvfrom=A3=A8=BE=ADsocket=BD=D3=CA=D5=CA=FD=BE=DD=
+=A3=A9=20
+</FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>recv=A3=ACrecvmsg=A3=ACsend=A3=ACsendto=A3=ACsocket<B=
+R></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int recvfrom(int =
+s,void *buf,int=20
+      len,unsigned int flags ,struct sockaddr *from ,int=20
+  *fromlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>recv()=D3=C3=C0=B4=BD=D3=CA=D5=D4=B6=B3=CC=D6=F7=BB=FA=
+=BE=AD=D6=B8=B6=A8=B5=C4socket=20
+      =
+=B4=AB=C0=B4=B5=C4=CA=FD=BE=DD=A3=AC=B2=A2=B0=D1=CA=FD=BE=DD=B4=E6=B5=BD=D3=
+=C9=B2=CE=CA=FDbuf =
+=D6=B8=CF=F2=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4=A3=AC=B2=CE=CA=FDlen =
+=CE=AA=BF=C9=BD=D3=CA=D5=CA=FD=BE=DD=B5=C4=D7=EE=B4=F3=B3=A4=B6=C8=A1=A3=B2=
+=CE=CA=FDflags=20
+      =
+=D2=BB=B0=E3=C9=E80=A3=AC=C6=E4=CB=FB=CA=FD=D6=B5=B6=A8=D2=E5=C7=EB=B2=CE=
+=BF=BCrecv()=A1=A3=B2=CE=CA=FDfrom=D3=C3=C0=B4=D6=B8=B6=A8=D3=FB=B4=AB=CB=
+=CD=B5=C4=CD=F8=C2=E7=B5=D8=D6=B7=A3=AC=BD=E1=B9=B9sockaddr=20
+      =
+=C7=EB=B2=CE=BF=BCbind()=A1=A3=B2=CE=CA=FDfromlen=CE=AAsockaddr=B5=C4=BD=E1=
+=B9=B9=B3=A4=B6=C8=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=BD=D3=CA=D5=B5=BD=B5=C4=
+=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=D4=F2=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=F3=
+=D4=AD=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB<BR>EF=
+AULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4=A1=A3<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EINTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF=A1=A3<BR>EAGAIN =
+=B4=CB=B6=AF=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=A1=A3<BR>ENOBUFS=20
+      =CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3<BR>ENOMEM =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>/*=C0=FB=D3=C3socket=B5=C4UDP =
+client<BR>=B4=CB=B3=CC=D0=F2=BB=E1=C1=AC=CF=DFUDP=20
+      =
+server=A3=AC=B2=A2=BD=AB=BC=FC=C5=CC=CA=E4=C8=EB=B5=C4=D7=D6=B7=FB=B4=AE=B4=
+=AB=B8=F8server=A1=A3<BR>UDP server=20
+      =
+=B7=B6=C0=FD=C7=EB=B2=CE=BF=BCsendto=A3=A8=A3=A9=A1=A3<BR>*/<BR>#include&=
+lt;sys/stat.h&gt;<BR>#include&lt;fcntl.h&gt;<BR>#include&lt;unistd.h&gt;<=
+BR>#include&lt;sys/typs.h&gt;<BR>#include&lt;sys/socket.h&gt;<BR>#include=
+&lt;netinet/in.h&gt;<BR>#include&lt;arpa/inet.h&gt;<BR>#define=20
+      PORT 2345<BR>#define SERVER_IP =
+=A1=B0127.0.0.1=A1=B1<BR>main()<BR>{<BR>int=20
+      s,len;<BR>struct sockaddr_in addr;<BR>int addr_len =
+=3Dsizeof(struct=20
+      sockaddr_in);<BR>char buffer[256];<BR>/* =
+=BD=A8=C1=A2socket*/<BR>if((s =3D=20
+      =
+socket(AF_INET,SOCK_DGRAM,0))&lt;0){<BR>perror(=A1=B0socket=A1=B1);<BR>ex=
+it(1);<BR>}<BR>/*=20
+      =
+=CC=EE=D0=B4sockaddr_in*/<BR>bzero(&amp;addr,sizeof(addr));<BR>addr.sin_f=
+amily =3D=20
+      AF_INET;<BR>addr.sin_port =3D htons(PORT);<BR>addr.sin_addr.s_addr =
+=3D=20
+      =
+inet_addr(SERVER_IP);<BR>while(1){<BR>bzero(buffer,sizeof(buffer));<BR>/*=
+=20
+      =
+=B4=D3=B1=EA=D7=BC=CA=E4=C8=EB=C9=E8=B1=B8=C8=A1=B5=C3=D7=D6=B7=FB=B4=AE*=
+/<BR>len =3Dread(STDIN_FILENO,buffer,sizeof(buffer));<BR>/*=20
+      =
+=BD=AB=D7=D6=B7=FB=B4=AE=B4=AB=CB=CD=B8=F8server=B6=CB*/<BR>sendto(s,buff=
+er,len,0,&amp;addr,addr_len);<BR>/*=20
+      =
+=BD=D3=CA=D5server=B6=CB=B7=B5=BB=D8=B5=C4=D7=D6=B7=FB=B4=AE*/<BR>len =
+=3D=20
+      =
+recvfrom(s,buffer,sizeof(buffer),0,&amp;addr,&amp;addr_len);<BR>printf(=A1=
+=B0receive:=20
+      %s=A1=B1,buffer);<BR>}<BR>}<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=D6=B4=D0=D0 =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>(=CF=C8=D6=B4=D0=D0udp server =D4=D9=D6=B4=D0=D0udp =
+client)<BR>hello=20
+      /*=B4=D3=BC=FC=C5=CC=CA=E4=C8=EB=D7=D6=B7=FB=B4=AE*/<BR>receive: =
+hello =
+/*server=B6=CB=B7=B5=BB=D8=C0=B4=B5=C4=D7=D6=B7=FB=B4=AE*/<BR></FONT></TD=
+></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc279></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>recvmsg=A3=A8=BE=ADsocket=BD=D3=CA=D5=CA=FD=BE=DD=
+=A3=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>recv=A3=ACrecvfrom=A3=ACsend=A3=ACsendto=A3=ACsendmsg=
+=A3=ACsocket<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/sockte=
+t.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int recvmsg(int =
+s,struct msghdr=20
+      *msg,unsigned int flags);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>recvmsg()=D3=C3=C0=B4=BD=D3=CA=D5=D4=B6=B3=CC=D6=F7=BB=
+=FA=BE=AD=D6=B8=B6=A8=B5=C4socket=B4=AB=C0=B4=B5=C4=CA=FD=BE=DD=A1=A3=B2=CE=
+=CA=FDs=CE=AA=D2=D1=BD=A8=C1=A2=BA=C3=C1=AC=CF=DF=B5=C4socket=A3=AC=C8=E7=
+=B9=FB=C0=FB=D3=C3UDP=D0=AD=D2=E9=D4=F2=B2=BB=D0=E8=BE=AD=B9=FD=C1=AC=CF=DF=
+=B2=D9=D7=F7=A1=A3=B2=CE=CA=FDmsg=D6=B8=CF=F2=D3=FB=C1=AC=CF=DF=B5=C4=CA=FD=
+=BE=DD=BD=E1=B9=B9=C4=DA=C8=DD=A3=AC=B2=CE=CA=FDflags=D2=BB=B0=E3=C9=E80=A3=
+=AC=CF=EA=CF=B8=C3=E8=CA=F6=C7=EB=B2=CE=BF=BCsend()=A1=A3=B9=D8=D3=DA=BD=E1=
+=B9=B9msghdr=B5=C4=B6=A8=D2=E5=C7=EB=B2=CE=BF=BCsendmsg()=A1=A3<BR></FONT=
+></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=BD=D3=CA=D5=B5=BD=B5=C4=
+=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=D4=F2=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=F3=
+=D4=AD=D2=F2=B4=E6=D3=DAerrno=D6=D0=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3=
+<BR>EFAULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EINTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF=A1=A3<BR>EAGAIN =
+=B4=CB=B2=D9=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=A1=A3<BR>ENOBUFS=20
+      =CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3<BR>ENOMEM =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCrecvfrom()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc280></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>send=A3=A8=BE=ADsocket=B4=AB=CB=CD=CA=FD=BE=DD=A3=
+=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>sendto=A3=ACsendmsg=A3=ACrecv=A3=ACrecvfrom=A3=ACsock=
+et<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int send(int =
+s,const void * msg,int=20
+      len,unsigned int falgs);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>send()=D3=C3=C0=B4=BD=AB=CA=FD=BE=DD=D3=C9=D6=B8=B6=A8=
+=B5=C4socket=20
+      =
+=B4=AB=B8=F8=B6=D4=B7=BD=D6=F7=BB=FA=A1=A3=B2=CE=CA=FDs=CE=AA=D2=D1=BD=A8=
+=C1=A2=BA=C3=C1=AC=BD=D3=B5=C4socket=A1=A3=B2=CE=CA=FDmsg=D6=B8=CF=F2=D3=FB=
+=C1=AC=CF=DF=B5=C4=CA=FD=BE=DD=C4=DA=C8=DD=A3=AC=B2=CE=CA=FDlen=D4=F2=CE=AA=
+=CA=FD=BE=DD=B3=A4=B6=C8=A1=A3=B2=CE=CA=FDflags=D2=BB=B0=E3=C9=E80=A3=AC=C6=
+=E4=CB=FB=CA=FD=D6=B5=B6=A8=D2=E5=C8=E7=CF=C2<BR>MSG_OOB=20
+      =B4=AB=CB=CD=B5=C4=CA=FD=BE=DD=D2=D4out-of-band =
+=CB=CD=B3=F6=A1=A3<BR>MSG_DONTROUTE =
+=C8=A1=CF=FB=C2=B7=D3=C9=B1=ED=B2=E9=D1=AF<BR>MSG_DONTWAIT=20
+      =
+=C9=E8=D6=C3=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=D4=CB=D7=F7<BR>MSG_NOSIGNAL =
+=B4=CB=B6=AF=D7=F7=B2=BB=D4=B8=B1=BBSIGPIPE =
+=D0=C5=BA=C5=D6=D0=B6=CF=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=CA=B5=BC=CA=B4=AB=CB=CD=
+=B3=F6=C8=A5=B5=C4=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-1=A1=A3=
+=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs =
+=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3<BR>EFAULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EINTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF=A1=A3<BR>EAGAIN =
+=B4=CB=B2=D9=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=A1=A3<BR>ENOBUFS=20
+      =CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3<BR>ENOMEM =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCconnect()<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc281></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>sendmsg=A3=A8=BE=ADsocket=B4=AB=CB=CD=CA=FD=BE=DD=
+=A3=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>send=A3=ACsendto=A3=ACrecv=A3=ACrecvfrom=A3=ACrecvmsg=
+=A3=ACsocket<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int sendmsg(int =
+s,const strcut msghdr=20
+      *msg,unsigned int flags);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>sendmsg()=D3=C3=C0=B4=BD=AB=CA=FD=BE=DD=D3=C9=D6=B8=B6=
+=A8=B5=C4socket=B4=AB=B8=F8=B6=D4=B7=BD=D6=F7=BB=FA=A1=A3=B2=CE=CA=FDs=CE=
+=AA=D2=D1=BD=A8=C1=A2=BA=C3=C1=AC=CF=DF=B5=C4socket=A3=AC=C8=E7=B9=FB=C0=FB=
+=D3=C3UDP=D0=AD=D2=E9=D4=F2=B2=BB=D0=E8=BE=AD=B9=FD=C1=AC=CF=DF=B2=D9=D7=F7=
+=A1=A3=B2=CE=CA=FDmsg=20
+      =
+=D6=B8=CF=F2=D3=FB=C1=AC=CF=DF=B5=C4=CA=FD=BE=DD=BD=E1=B9=B9=C4=DA=C8=DD=A3=
+=AC=B2=CE=CA=FDflags=D2=BB=B0=E3=C4=AC=C8=CF=CE=AA0=A3=AC=CF=EA=CF=B8=C3=E8=
+=CA=F6=C7=EB=B2=CE=BF=BCsend()=A1=A3<BR>=BD=E1=B9=B9msghdr=B6=A8=D2=E5=C8=
+=E7=CF=C2<BR>struct=20
+      msghdr<BR>{<BR>void *msg_name; /*Address to send to /receive from =
+.=20
+      */<BR>socklen_t msg_namelen; /* Length of addres data */<BR>strcut =
+iovec *=20
+      msg_iov; /* Vector of data to send/receive into */<BR>size_t =
+msg_iovlen;=20
+      /* Number of elements in the vector */<BR>void * msg_control; /* =
+Ancillary=20
+      dat */<BR>size_t msg_controllen; /* Ancillary data buffer length =
+*/<BR>int=20
+      msg_flags; /* Flags on received message =
+*/<BR>};<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=CA=B5=BC=CA=B4=AB=CB=CD=
+=B3=F6=C8=A5=B5=C4=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-1=A3=AC=
+=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs =
+=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3<BR>EFAULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4<BR>ENOTSOCK =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+=A1=A3<BR>EINTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF=A1=A3<BR>EAGAIN =
+=B4=CB=B2=D9=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4socket=CE=AA=B2=BB=BF=C9=D7=E8=B6=CF=A1=A3<BR>ENOBUFS=20
+      =CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3<BR>ENOMEM =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCsendto()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc282></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>sendto=A3=A8=BE=ADsocket=B4=AB=CB=CD=CA=FD=BE=DD=A3=
+=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>send , =
+sendmsg,recv , recvfrom ,=20
+      socket<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>#include &lt; =
+sys/types.h=20
+      &gt;<BR>#include &lt; sys/socket.h &gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int sendto ( int =
+s , const void * msg,=20
+      int len, unsigned int flags, const <BR>struct sockaddr * to , int =
+tolen )=20
+      ;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>sendto()=20
+      =
+=D3=C3=C0=B4=BD=AB=CA=FD=BE=DD=D3=C9=D6=B8=B6=A8=B5=C4socket=B4=AB=B8=F8=B6=
+=D4=B7=BD=D6=F7=BB=FA=A1=A3=B2=CE=CA=FDs=CE=AA=D2=D1=BD=A8=BA=C3=C1=AC=CF=
+=DF=B5=C4socket,=C8=E7=B9=FB=C0=FB=D3=C3UDP=D0=AD=D2=E9=D4=F2=B2=BB=D0=E8=
+=BE=AD=B9=FD=C1=AC=CF=DF=B2=D9=D7=F7=A1=A3=B2=CE=CA=FDmsg=D6=B8=CF=F2=D3=FB=
+=C1=AC=CF=DF=B5=C4=CA=FD=BE=DD=C4=DA=C8=DD=A3=AC=B2=CE=CA=FDflags=20
+      =
+=D2=BB=B0=E3=C9=E80=A3=AC=CF=EA=CF=B8=C3=E8=CA=F6=C7=EB=B2=CE=BF=BCsend()=
+=A1=A3=B2=CE=CA=FDto=D3=C3=C0=B4=D6=B8=B6=A8=D3=FB=B4=AB=CB=CD=B5=C4=CD=F8=
+=C2=E7=B5=D8=D6=B7=A3=AC=BD=E1=B9=B9sockaddr=C7=EB=B2=CE=BF=BCbind()=A1=A3=
+=B2=CE=CA=FDtolen=CE=AAsockaddr=B5=C4=BD=E1=B9=FB=B3=A4=B6=C8=A1=A3<BR></=
+FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8=CA=B5=BC=CA=B4=AB=CB=CD=
+=B3=F6=C8=A5=B5=C4=D7=D6=B7=FB=CA=FD=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8=A3=AD1=
+=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=20
+      =D6=D0=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B7=C7=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=A1=A3<BR>EF=
+AULT=20
+      =
+=B2=CE=CA=FD=D6=D0=D3=D0=D2=BB=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=
+=A1=B5=C4=C4=DA=B4=E6=BF=D5=BC=E4=A1=A3<BR>WNOTSOCK canshu =
+s=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=A1=A3<BR>EI=
+NTR=20
+      =B1=BB=D0=C5=BA=C5=CB=F9=D6=D0=B6=CF=A1=A3<BR>EAGAIN =
+=B4=CB=B6=AF=D7=F7=BB=E1=C1=EE=BD=F8=B3=CC=D7=E8=B6=CF=A3=AC=B5=AB=B2=CE=CA=
+=FDs=B5=C4soket=CE=AA=B2=B9=BF=CE=D7=E8=B6=CF=B5=C4=A1=A3<BR>ENOBUFS=20
+      =
+=CF=B5=CD=B3=B5=C4=BB=BA=B3=E5=C4=DA=B4=E6=B2=BB=D7=E3=A1=A3<BR>EINVAL =
+=B4=AB=B8=F8=CF=B5=CD=B3=B5=F7=D3=C3=B5=C4=B2=CE=CA=FD=B2=BB=D5=FD=C8=B7=A1=
+=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>#include &lt; =
+sys/types.h=20
+      &gt;<BR>#include &lt; sys/socket.h &gt;<BR># include=20
+      &lt;netinet.in.h&gt;<BR>#include &lt;arpa.inet.h&gt;<BR>#define =
+PORT 2345=20
+      /*=CA=B9=D3=C3=B5=C4port*/<BR>main(){<BR>int sockfd,len;<BR>struct =
+sockaddr_in=20
+      addr;<BR>char =
+buffer[256];<BR>/*=BD=A8=C1=A2socket*/<BR>if(sockfd=3Dsocket=20
+      (AF_INET,SOCK_DGRAM,0))&lt;0){<BR>perror=20
+      =
+(=A1=B0socket=A1=B1);<BR>exit(1);<BR>}<BR>/*=CC=EE=D0=B4sockaddr_in =
+=BD=E1=B9=B9*/<BR>bzero ( &amp;addr,=20
+      sizeof(addr)=20
+      =
+);<BR>addr.sin_family=3DAF_INET;<BR>addr.sin_port=3Dhtons(PORT);<BR>addr.=
+sin_addr=3Dhton1(INADDR_ANY)=20
+      ;<BR>if (bind(sockfd, &amp;addr,=20
+      =
+sizeof(addr))&lt;0){<BR>perror(=A1=B0connect=A1=B1);<BR>exit(1);<BR>}<BR>=
+while(1){<BR>bezro(buffer,sizeof(buffer));<BR>len=20
+      =3D recvfrom(socket,buffer,sizeof(buffer), 0 , &amp;addr=20
+      =
+&amp;addr_len);<BR>/*=CF=D4=CA=BEclient=B6=CB=B5=C4=CD=F8=C2=E7=B5=D8=D6=B7=
+*/<BR>printf(=A1=B0receive from %s\n =A1=B0 ,=20
+      inet_ntoa(=20
+      =
+addr.sin_addr));<BR>/*=BD=AB=D7=D6=B4=AE=B7=B5=BB=D8=B8=F8client=B6=CB*/<=
+BR>sendto(sockfd,buffer,len,0,&amp;addr,addr_len);=A1=B1<BR>}<BR>}<BR></F=
+ONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=D6=B4=D0=D0 =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=C7=EB=B2=CE=BF=BCrecvfrom()<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc283></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>setprotoent=A3=A8=B4=F2=BF=AA=CD=F8=C2=E7=D0=AD=D2=
+=E9=B5=C4=CA=FD=BE=DD=CE=C4=BC=FE=A3=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>getprotobyname, =
+getprotobynumber,=20
+      endprotoent<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>#include=20
+  &lt;netdb.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>void setprotoent =
+(int=20
+      stayopen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>setprotoent()=D3=C3=C0=B4=B4=F2=BF=AA/etc/protocols=A3=
+=AC=20
+      =
+=C8=E7=B9=FB=B2=CE=CA=FDstayopen=D6=B5=CE=AA1=A3=AC=D4=F2=BD=D3=CF=C2=C0=B4=
+=B5=C4getprotobyname()=BB=F2getprotobynumber()=BD=AB=B2=BB=BB=E1=D7=D4=B6=
+=AF=B9=D8=B1=D5=B4=CB=CE=C4=BC=FE=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc284></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>setservent=A3=A8=B4=F2=BF=AA=D6=F7=BB=FA=CD=F8=C2=
+=E7=B7=FE=CE=F1=B5=C4=CA=FD=BE=DD=CE=C4=BC=FE=A3=A9=20
+    </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>getservent, =
+getservbyname,=20
+      getservbyport, endservent<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>#include &lt; =
+netdb.h=20
+    &gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>void setservent =
+(int=20
+      stayopen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>setservent()=D3=C3=C0=B4=B4=F2=BF=AA/etc/services=A3=AC=
+=C8=E7=B9=FB=B2=CE=CA=FDstayopen=D6=B5=CE=AA1=A3=AC=D4=F2=BD=D3=CF=C2=C0=B4=
+=B5=C4getservbyname()=BB=F2getservbyport()=BD=AB=B2=B9=BB=D8=D7=D4=B6=AF=B9=
+=D8=B1=D5=CE=C4=BC=FE=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc285></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>setsockopt=A3=A8=C9=E8=D6=C3socket=D7=B4=CC=AC=A3=
+=A9=20
+  </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>getsockopt<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int =
+setsockopt(int s,int level,int=20
+      optname,const void * =
+optval,,socklen_toptlen);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>setsockopt()=D3=C3=C0=B4=C9=E8=D6=C3=B2=CE=CA=FDs=CB=F9=
+=D6=B8=B6=A8=B5=C4socket=D7=B4=CC=AC=A1=A3=B2=CE=CA=FDlevel=B4=FA=B1=ED=D3=
+=FB=C9=E8=D6=C3=B5=C4=CD=F8=C2=E7=B2=E3=A3=AC=D2=BB=B0=E3=C9=E8=B3=C9SOL_=
+SOCKET=D2=D4=B4=E6=C8=A1socket=B2=E3=A1=A3=B2=CE=CA=FDoptname=B4=FA=B1=ED=
+=D3=FB=C9=E8=D6=C3=B5=C4=D1=A1=CF=EE=A3=AC=D3=D0=CF=C2=C1=D0=BC=B8=D6=D6=CA=
+=FD=D6=B5:<BR>SO_DEBUG=20
+      =
+=B4=F2=BF=AA=BB=F2=B9=D8=B1=D5=C5=C5=B4=ED=C4=A3=CA=BD<BR>SO_REUSEADDR =
+=D4=CA=D0=ED=D4=DAbind=A3=A8=A3=A9=B9=FD=B3=CC=D6=D0=B1=BE=B5=D8=B5=D8=D6=
+=B7=BF=C9=D6=D8=B8=B4=CA=B9=D3=C3<BR>SO_TYPE=20
+      =B7=B5=BB=D8socket=D0=CE=CC=AC=A1=A3<BR>SO_ERROR =
+=B7=B5=BB=D8socket=D2=D1=B7=A2=C9=FA=B5=C4=B4=ED=CE=F3=D4=AD=D2=F2<BR>SO_=
+DONTROUTE=20
+      =
+=CB=CD=B3=F6=B5=C4=CA=FD=BE=DD=B0=FC=B2=BB=D2=AA=C0=FB=D3=C3=C2=B7=D3=C9=C9=
+=E8=B1=B8=C0=B4=B4=AB=CA=E4=A1=A3<BR>SO_BROADCAST =
+=CA=B9=D3=C3=B9=E3=B2=A5=B7=BD=CA=BD=B4=AB=CB=CD<BR>SO_SNDBUF=20
+      =
+=C9=E8=D6=C3=CB=CD=B3=F6=B5=C4=D4=DD=B4=E6=C7=F8=B4=F3=D0=A1<BR>SO_RCVBUF=
+ =
+=C9=E8=D6=C3=BD=D3=CA=D5=B5=C4=D4=DD=B4=E6=C7=F8=B4=F3=D0=A1<BR>SO_KEEPAL=
+IVE=20
+      =
+=B6=A8=C6=DA=C8=B7=B6=A8=C1=AC=CF=DF=CA=C7=B7=F1=D2=D1=D6=D5=D6=B9=A1=A3<=
+BR>SO_OOBINLINE =B5=B1=BD=D3=CA=D5=B5=BDOOB =
+=CA=FD=BE=DD=CA=B1=BB=E1=C2=ED=C9=CF=CB=CD=D6=C1=B1=EA=D7=BC=CA=E4=C8=EB=C9=
+=E8=B1=B8<BR>SO_LINGER=20
+      =
+=C8=B7=B1=A3=CA=FD=BE=DD=B0=B2=C8=AB=C7=D2=BF=C9=BF=BF=B5=C4=B4=AB=CB=CD=B3=
+=F6=C8=A5=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B2=CE=CA=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>optval=B4=FA=B1=ED=D3=FB=C9=E8=D6=C3=B5=C4=D6=B5=A3=AC=
+=B2=CE=CA=FDoptlen=D4=F2=CE=AAoptval=B5=C4=B3=A4=B6=C8=A1=A3<BR></FONT></=
+TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=C8=F4=D3=D0=B4=ED=
+=CE=F3=D4=F2=B7=B5=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=
+=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B8=BD=BC=D3=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B2=A2=B7=C7=BA=CF=B7=A8=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=
+<BR>ENOTSOCK=20
+      =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+<BR>ENOPROTOOPT =
+=B2=CE=CA=FDoptname=D6=B8=B6=A8=B5=C4=D1=A1=CF=EE=B2=BB=D5=FD=C8=B7=A1=A3=
+<BR>EFAULT=20
+      =
+=B2=CE=CA=FDoptval=D6=B8=D5=EB=D6=B8=CF=F2=CE=DE=B7=A8=B4=E6=C8=A1=B5=C4=C4=
+=DA=B4=E6=BF=D5=BC=E4=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCgetsockopt()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc286></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>shutdown=A3=A8=D6=D5=D6=B9socket=CD=A8=D0=C5=A3=A9=
+ </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>socket=A3=ACconnect<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>#include&lt;sys/socket.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int shutdown(int =
+s,int=20
+    how);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>shutdown()=D3=C3=C0=B4=D6=D5=D6=B9=B2=CE=CA=FDs=CB=F9=
+=D6=B8=B6=A8=B5=C4socket=C1=AC=CF=DF=A1=A3=B2=CE=CA=FDs=CA=C7=C1=AC=CF=DF=
+=D6=D0=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=A3=AC=B2=CE=CA=FDhow=D3=D0=CF=C2=
+=C1=D0=BC=B8=D6=D6=C7=E9=BF=F6:<BR>how=3D0=20
+      =D6=D5=D6=B9=B6=C1=C8=A1=B2=D9=D7=F7=A1=A3<BR>how=3D1 =
+=D6=D5=D6=B9=B4=AB=CB=CD=B2=D9=D7=F7<BR>how=3D2 =
+=D6=D5=D6=B9=B6=C1=C8=A1=BC=B0=B4=AB=CB=CD=B2=D9=D7=F7<BR></FONT></TD></T=
+R>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D80=A3=AC=CA=A7=B0=DC=B7=B5=
+=BB=D8-1=A3=AC=B4=ED=CE=F3=D4=AD=D2=F2=B4=E6=D3=DAerrno=A1=A3<BR></FONT><=
+/TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EBADF =
+=B2=CE=CA=FDs=B2=BB=CA=C7=D3=D0=D0=A7=B5=C4socket=B4=A6=C0=ED=B4=FA=C2=EB=
+<BR>ENOTSOCK=20
+      =
+=B2=CE=CA=FDs=CE=AA=D2=BB=CE=C4=BC=FE=C3=E8=CA=F6=B4=CA=A3=AC=B7=C7socket=
+<BR>ENOTCONN =
+=B2=CE=CA=FDs=D6=B8=B6=A8=B5=C4socket=B2=A2=CE=B4=C1=AC=CF=DF<BR></FONT><=
+/TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV align=3Dright><BR><FONT size=3D2 face=3D=CB=CE=CC=E5><A=20
+      name=3Dlinuxc287></A></FONT></DIV></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR></FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5><BR>socket=A3=A8=BD=A8=C1=A2=D2=BB=B8=F6socket=CD=A8=D0=
+=C5=A3=A9 </FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=CF=E0=B9=D8=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+    =
+face=3D=CB=CE=CC=E5>accept=A3=ACbind=A3=ACconnect=A3=AClisten<BR></FONT><=
+/TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B1=ED=CD=B7=CE=C4=BC=FE </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>#include&lt;sys/types.h&gt;<BR>#include&lt;sys/socket=
+.h&gt;<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B6=A8=D2=E5=BA=AF=CA=FD </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>int socket(int =
+domain,int type,int=20
+      protocol);<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=BA=AF=CA=FD=CB=B5=C3=F7 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+      =
+face=3D=CB=CE=CC=E5>socket()=D3=C3=C0=B4=BD=A8=C1=A2=D2=BB=B8=F6=D0=C2=B5=
+=C4socket=A3=AC=D2=B2=BE=CD=CA=C7=CF=F2=CF=B5=CD=B3=D7=A2=B2=E1=A3=AC=CD=A8=
+=D6=AA=CF=B5=CD=B3=BD=A8=C1=A2=D2=BB=CD=A8=D0=C5=B6=CB=BF=DA=A1=A3=B2=CE=CA=
+=FDdomain=20
+      =
+=D6=B8=B6=A8=CA=B9=D3=C3=BA=CE=D6=D6=B5=C4=B5=D8=D6=B7=C0=E0=D0=CD=A3=AC=CD=
+=EA=D5=FB=B5=C4=B6=A8=D2=E5=D4=DA/usr/include/bits/socket.h=20
+      =
+=C4=DA=A3=AC=B5=D7=CF=C2=CA=C7=B3=A3=BC=FB=B5=C4=D0=AD=D2=E9:<BR>PF_UNIX/=
+PF_LOCAL/AF_UNIX/AF_LOCAL UNIX=20
+      =BD=F8=B3=CC=CD=A8=D0=C5=D0=AD=D2=E9<BR>PF_INET?AF_INET =
+Ipv4=CD=F8=C2=E7=D0=AD=D2=E9<BR>PF_INET6/AF_INET6 Ipv6=20
+      =CD=F8=C2=E7=D0=AD=D2=E9<BR>PF_IPX/AF_IPX =
+IPX-Novell=D0=AD=D2=E9<BR>PF_NETLINK/AF_NETLINK=20
+      =BA=CB=D0=C4=D3=C3=BB=A7=BD=D3=BF=DA=D7=B0=D6=C3<BR>PF_X25/AF_X25 =
+ITU-T X.25/ISO-8208 =D0=AD=D2=E9<BR>PF_AX25/AF_AX25=20
+      =D2=B5=D3=E0=CE=DE=CF=DFAX.25=D0=AD=D2=E9<BR>PF_ATMPVC/AF_ATMPVC =
+=B4=E6=C8=A1=D4=AD=CA=BCATM=20
+      PVCs<BR>PF_APPLETALK/AF_APPLETALK =
+appletalk=A3=A8DDP=A3=A9=D0=AD=D2=E9<BR>PF_PACKET/AF_PACKET=20
+      =B3=F5=BC=B6=B7=E2=B0=FC=BD=D3=BF=DA<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B2=CE=CA=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>type=D3=D0=CF=C2=C1=D0=BC=B8=D6=D6=CA=FD=D6=B5:<BR>SO=
+CK_STREAM=20
+      =
+=CC=E1=B9=A9=CB=AB=CF=F2=C1=AC=D0=F8=C7=D2=BF=C9=D0=C5=C0=B5=B5=C4=CA=FD=BE=
+=DD=C1=F7=A3=AC=BC=B4TCP=A1=A3=D6=A7=B3=D6<BR>OOB=20
+      =
+=BB=FA=D6=C6=A3=AC=D4=DA=CB=F9=D3=D0=CA=FD=BE=DD=B4=AB=CB=CD=C7=B0=B1=D8=D0=
+=EB=CA=B9=D3=C3connect()=C0=B4=BD=A8=C1=A2=C1=AC=CF=DF=D7=B4=CC=AC=A1=A3<=
+BR>SOCK_DGRAM=20
+      =
+=CA=B9=D3=C3=B2=BB=C1=AC=D0=F8=B2=BB=BF=C9=D0=C5=C0=B5=B5=C4=CA=FD=BE=DD=B0=
+=FC=C1=AC=BD=D3<BR>SOCK_SEQPACKET =
+=CC=E1=B9=A9=C1=AC=D0=F8=BF=C9=D0=C5=C0=B5=B5=C4=CA=FD=BE=DD=B0=FC=C1=AC=BD=
+=D3<BR>SOCK_RAW=20
+      =
+=CC=E1=B9=A9=D4=AD=CA=BC=CD=F8=C2=E7=D0=AD=D2=E9=B4=E6=C8=A1<BR>SOCK_RDM =
+=CC=E1=B9=A9=BF=C9=D0=C5=C0=B5=B5=C4=CA=FD=BE=DD=B0=FC=C1=AC=BD=D3<BR>SOC=
+K_PACKET=20
+      =
+=CC=E1=B9=A9=BA=CD=CD=F8=C2=E7=C7=FD=B6=AF=B3=CC=D0=F2=D6=B1=BD=D3=CD=A8=D0=
+=C5=A1=A3<BR>protocol=D3=C3=C0=B4=D6=B8=B6=A8socket=CB=F9=CA=B9=D3=C3=B5=C4=
+=B4=AB=CA=E4=D0=AD=D2=E9=B1=E0=BA=C5=A3=AC=CD=A8=B3=A3=B4=CB=B2=CE=BF=BC=B2=
+=BB=D3=C3=B9=DC=CB=FC=A3=AC=C9=E8=CE=AA0=BC=B4=BF=C9=A1=A3<BR></FONT></TD=
+></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B7=B5=BB=D8=D6=B5 </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2=20
+  =
+face=3D=CB=CE=CC=E5>=B3=C9=B9=A6=D4=F2=B7=B5=BB=D8socket=B4=A6=C0=ED=B4=FA=
+=C2=EB=A3=AC=CA=A7=B0=DC=B7=B5=BB=D8-1=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B4=ED=CE=F3=B4=FA=C2=EB </FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 face=3D=CB=CE=CC=E5>EPROTONOSUPPORT=20
+      =
+=B2=CE=CA=FDdomain=D6=B8=B6=A8=B5=C4=C0=E0=D0=CD=B2=BB=D6=A7=B3=D6=B2=CE=CA=
+=FDtype=BB=F2protocol=D6=B8=B6=A8=B5=C4=D0=AD=D2=E9<BR>ENFILE=20
+      =
+=BA=CB=D0=C4=C4=DA=B4=E6=B2=BB=D7=E3=A3=AC=CE=DE=B7=A8=BD=A8=C1=A2=D0=C2=B5=
+=C4socket=BD=E1=B9=B9<BR>EMFILE =
+=BD=F8=B3=CC=CE=C4=BC=FE=B1=ED=D2=E7=B3=F6=A3=AC=CE=DE=B7=A8=D4=D9=BD=A8=C1=
+=A2=D0=C2=B5=C4socket<BR>EACCESS=20
+      =
+=C8=A8=CF=DE=B2=BB=D7=E3=A3=AC=CE=DE=B7=A8=BD=A8=C1=A2type=BB=F2protocol=D6=
+=B8=B6=A8=B5=C4=D0=AD=D2=E9<BR>ENOBUFS/ENOMEM =
+=C4=DA=B4=E6=B2=BB=D7=E3<BR>EINVAL=20
+      =
+=B2=CE=CA=FDdomain/type/protocol=B2=BB=BA=CF=B7=A8<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>
+      <DIV align=3Dright><FONT size=3D2 face=3D=CB=CE=CC=E5>=B7=B6=C0=FD =
+</FONT></DIV></TD>
+    <TD vAlign=3Dtop><FONT size=3D2 =
+face=3D=CB=CE=CC=E5>=B2=CE=BF=BCconnect()=A1=A3<BR></FONT></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D80>=A1=A1=20
+      <DIV =
+align=3Dright><BR></DIV></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01CD0290.6C873980--
